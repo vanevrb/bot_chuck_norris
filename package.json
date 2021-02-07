@@ -1,7 +1,7 @@
 {
   "name": "bot_g",
   "version": "1.0.0",
-  "description": "Bot de discord para pruebas",
+  "description": "Bot de discord Chuck Norris",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
